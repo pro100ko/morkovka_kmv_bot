@@ -1,5 +1,5 @@
 python-dotenv==1.0.0
-pyTelegramBotAPI==4.16.1
+python-telegram-bot==20.3
 firebase-admin==6.2.0
 google-cloud-firestore==2.11.1
 emoji==2.8.0
